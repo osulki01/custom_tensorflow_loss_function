@@ -1,6 +1,7 @@
 # custom_tensorflow_loss_function
-Accompaniment to Medium article Making Your Loss Function Count, demonstrating how to use a custom loss function in 
-TensorFlow.
+Accompaniment to Medium article 
+[Making Your Loss Function Count](https://medium.com/@kieran_95138/making-your-loss-function-count-8659cf65feb1/), 
+demonstrating how to use a custom loss function in TensorFlow.
 
 
 # Pre-requisites
